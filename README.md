@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <b>shakespearean slur generator(TBD)</b>
 - 🥘 I’m currently learning <b> Autoencoders </b>
 - 💬 Ask me about <b> "how's life?" </b>
-- 📫 How to reach me: <b> Don't!, social distancing HR,HD mode </b>
+- 📫 How to reach me: <b> Don't!, social distancing HR,HD,NC mode (if u know, u know ( ͡° ͜ʖ ͡°)) </b>
 - ⚡ Fun fact: <b> 177013 < 218500 </b>
 
