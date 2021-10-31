@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 
 
 
-- 🐓 I’m currently working on <b>Face Mask </b>
-- 🥘 I’m currently learning <b> SingleShot Multibox detector </b>
+- 🐓 I’m currently working on <b>Time Series </b>
+- 🥘 I’m currently learning <b> Time Series Forcasting </b>
 - 💬 Ask me about <b> "how's life?" </b>
 - 📫 How to reach me: <b> Don't!, social distancing HR,HD,NC mode (if u know, u know ( ͡° ͜ʖ ͡°)) </b>
 - ⚡ Fun fact: <b> 177013 < 218500 </b>
