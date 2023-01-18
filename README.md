@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 I am Machine Learning Dev from India
 
-- 🐓 I’m currently working on <b>Super Resolution Generative Adversarial Networks</b>
+- 🐓 I’m currently working on <b> Deployment Patterns </b>
 - 🥘 I’m currently learning <b> to maintain Nash Equilibrium between Networks </b>
 - 💬 Ask me about <b> gaming trends and how BR ruined everything </b>
-- 📫 How to reach me: <b> Don't!, social distancing HR,HD,NC mode (if u know, u know ( ͡° ͜ʖ ͡°)) </b>
+- 📫 How to reach me: Linkedin Above!
 - ⚡ Fun fact: <b> 177013 < 218500 </b>
 
  ---
