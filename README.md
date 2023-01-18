@@ -51,6 +51,6 @@ I am Machine Learning Dev from India
 
 ---
  ### 📈 Stats :
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirreajohn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Mahesh's GitHub stats](https://vercel-stats-xz2jfqmij-sirreajohn.vercel.app/api?username=sirreajohn&show_icons=true&theme=tokyonight)
   
   
